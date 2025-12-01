@@ -1,0 +1,102 @@
+# AJ Vitanza – DON'T WANNA KNOW
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.57] Oh hey
+[00:02.12] Oh, oh hey
+[00:04.36] Oh, oh, oh hey
+[00:06.80] Uh oh, uh oh
+[00:12.80] 
+[00:09.17] I don't wanna know, know, know, know
+[00:11.33] Who's taking you home, home, home, home
+[00:13.96] And loving you so, so, so, so
+[00:16.87] The way I used to love you, no
+[00:18.71] I don't wanna know, know, know, know
+[00:21.19] Who's taking you home, home, home, home
+[00:23.53] And loving you so, so, so, so
+[00:26.52] The way I used to love you, oh
+[00:28.37] I don't wanna know
+[00:37.37] 
+[00:29.72] Wasted (wasted)
+[00:32.24] And the more I drink the more I think about you
+[00:37.44] Oh no, no, I can't take it
+[00:41.73] Baby every place I go reminds me of you
+[01:01.23] 
+[00:47.59] Do you think of me
+[00:49.99] Of what we used to be?
+[00:52.39] Is it better now
+[00:54.76] That I'm not around?
+[00:56.86] My friends are actin' strange
+[00:59.63] They don't bring up your name
+[01:02.04] Are you happy now?
+[01:04.25] Are you happy now?
+[01:13.25] 
+[01:06.53] I don't wanna know, know, know, know
+[01:09.17] Who's taking you home, home, home, home
+[01:11.58] And loving you so, so, so, so
+[01:14.40] The way I used to love you, no
+[01:16.34] I don't wanna know, know, know, know
+[01:18.70] Who's taking you home, home, home, home
+[01:21.17] And loving you so, so, so, so
+[01:23.86] The way I used to love you, oh
+[01:26.17] I don't wanna know
+[01:35.17] 
+[01:27.47] And every time I go out, yeah
+[01:30.63] I hear it from this one, I hear it from that one
+[01:32.90] That you got someone new, yeah
+[01:37.03] I see but don't believe it
+[01:40.30] Even in my head you're still in my bed
+[01:42.72] Maybe I'm just a fool
+[01:53.22] 
+[01:45.23] Do you think of me
+[01:47.64] Of what we used to be? (What we used to be)
+[01:49.74] Is it better now
+[01:52.21] That I'm not around? (That I'm not around)
+[01:54.66] My friends are actin' strange
+[01:57.08] They don't bring up your name
+[01:59.46] Are you happy now?
+[02:01.89] Are you happy now?
+[02:10.89] 
+[02:04.07] I don't wanna know, know, know, know
+[02:06.65] Who's taking you home, home, home, home
+[02:09.08] And loving you so, so, so, so
+[02:11.94] The way I used to love you, no
+[02:14.02] I don't wanna know, know, know, know
+[02:16.32] Who's taking you home, home, home, home
+[02:18.78] And loving you so, so, so, so
+[02:21.67] The way I used to love you, oh
+[02:23.44] I don't wanna know
+[02:32.44] 
+[02:25.06] No more "please stop"
+[02:25.95] No more hashtag boo'd up screenshots
+[02:28.34] No more tryna make me jealous on your birthday
+[02:30.60] You know just how I make it better on your birthday, oh
+[02:33.36] Do he do you like this, do he woo you like this?
+[02:35.81] Do he lay it down for you, touch you, pull you like this?
+[02:38.27] Matter of fact, never mind, we gon' let the past be
+[02:40.53] Maybe he's right now, but your body's still with me, whoa
+[03:09.03] 
+[02:42.68] I don't wanna know, know, know, know
+[02:44.81] Who's taking you home, home, home, home
+[02:47.34] And loving you so, so, so, so
+[02:50.22] The way I used to love you, no
+[02:52.01] I don't wanna know, know, know, know
+[02:54.76] Who's taking you home, home, home, home
+[02:57.16] And loving you so, so, so, so
+[02:59.85] The way I used to love you, oh
+[03:01.81] I don't wanna know, know, know, know
+[03:04.07] Who's taking you home, home, home, home
+[03:06.42] And loving you so, so, so, so
+[03:09.69] The way I used to love you, no
+[03:11.63] I don't wanna know, know, know, know
+[03:13.82] Who's taking you home, home, home, home
+[03:16.57] And loving you so, so, so, so
+[03:19.29] The way I used to love you, oh
+[03:21.20] I don't wanna know
+[03:30.20] 
+[03:22.11] Oh hey
+[03:23.92] Oh, oh hey
+[03:25.72] Oh, oh, oh hey
+[03:28.60] Uh oh, uh oh
+```
