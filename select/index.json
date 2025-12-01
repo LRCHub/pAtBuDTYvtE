@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "DON'T WANNA KNOW",
+  "base_artist": "AJ Vitanza",
+  "createdAt": "2025-12-01T04:43:44.787576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Wanna_Know_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Wanna Know",
+      "artist": "Astrid S",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Wanna_Know_Astrid_S.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Wanna_Know_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Wanna Know - Alternate Version",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/04_Don't_Wanna_Know_-_Alternate_Version_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/05_Don't_Wanna_Know_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby You Don't Wanna Know",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/06_Baby_You_Don't_Wanna_Know_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby You Don't Wanna Know (Album Version)",
+      "artist": "Sum 41",
+      "has_synced": false,
+      "path": "select/07_Baby_You_Don't_Wanna_Know_(Album_Version)_Sum_41.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Wanna_Know_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know",
+      "artist": "Phil Collins",
+      "has_synced": false,
+      "path": "select/09_I_Don't_Wanna_Know_Phil_Collins.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Wanna_Know_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Wanna Know",
+      "artist": "Bo Burnham",
+      "has_synced": false,
+      "path": "select/11_Don't_Wanna_Know_Bo_Burnham.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Wanna Know",
+      "artist": "Falden",
+      "has_synced": true,
+      "path": "select/12_Don't_Wanna_Know_Falden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/13_Don't_Wanna_Know_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5 feat. Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/14_Don't_Wanna_Know_Maroon_5_feat._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5, Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/15_Don't_Wanna_Know_Maroon_5,_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know",
+      "artist": "Willow Kayne",
+      "has_synced": false,
+      "path": "select/16_I_Don't_Wanna_Know_Willow_Kayne.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remastered",
+      "artist": "Mario Winans feat. Enya & Diddy",
+      "has_synced": true,
+      "path": "select/17_I_Don't_Wanna_Know_(feat._Enya_&_P._Diddy)_-_2016_Remastered_Mario_Winans_feat._Enya_&_Diddy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5, Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Wanna_Know_Maroon_5,_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Don't Wanna Know (feat. Kendrick Lamar)",
+      "artist": "Maroon 5, Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_02_Don't_Wanna_Know_(feat._Kendrick_Lamar)_Maroon_5,_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5, Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_03_Don't_Wanna_Know_Maroon_5,_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Don't Wanna Know feat. Kendrick Lamar",
+      "artist": "Maroon 5, Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_04_Don't_Wanna_Know_feat._Kendrick_Lamar_Maroon_5,_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Don't Wanna Know",
+      "artist": "Maroon 5, Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_05_Don't_Wanna_Know_Maroon_5,_Kendrick_Lamar.txt"
+    }
+  ]
+}
